@@ -79,4 +79,3 @@ farmer-app/
 
 **Dhruv Kachhela**
 2nd Year — Engineering Physics, IIT Indore
-[GitHub](https://github.com/dhruvkachhela) · [dhruvkachhela2006@gmail.com](mailto:dhruvkachhela2006@gmail.com)
